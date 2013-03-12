@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\AiNachi\bin\Debug\AiNachi.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\AiNachi\bin\Debug\AiNachi.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\AiNachi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\AiNachi\obj\x86\Debug\AiNachi.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\AiNachi\obj\x86\Debug\AiNachi.pdb

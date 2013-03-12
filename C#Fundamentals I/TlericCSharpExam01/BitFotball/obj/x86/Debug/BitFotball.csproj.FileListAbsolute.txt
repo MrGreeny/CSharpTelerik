@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\BitFotball\bin\Debug\BitFotball.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\BitFotball\bin\Debug\BitFotball.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\BitFotball\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\BitFotball\obj\x86\Debug\BitFotball.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\BitFotball\obj\x86\Debug\BitFotball.pdb

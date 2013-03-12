@@ -1,0 +1,7 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\VersionTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\VersionTest\bin\Debug\VersionTest.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\VersionTest\bin\Debug\VersionTest.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\VersionTest\bin\Debug\Point3D.dll
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\VersionTest\bin\Debug\Point3D.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\VersionTest\obj\x86\Debug\VersionTest.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\VersionTest\obj\x86\Debug\VersionTest.pdb

@@ -1,0 +1,2 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\PrintPerimeer\obj\x86\Debug\PrintPerimeer.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\PrintPerimeer\obj\x86\Debug\PrintPerimeer.pdb

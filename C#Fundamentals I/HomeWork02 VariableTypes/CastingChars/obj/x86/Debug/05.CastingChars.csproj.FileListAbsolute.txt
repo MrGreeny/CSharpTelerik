@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\CastingChars\bin\Debug\CastingChars.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\CastingChars\bin\Debug\CastingChars.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\CastingChars\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\CastingChars\obj\x86\Debug\CastingChars.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\CastingChars\obj\x86\Debug\CastingChars.pdb

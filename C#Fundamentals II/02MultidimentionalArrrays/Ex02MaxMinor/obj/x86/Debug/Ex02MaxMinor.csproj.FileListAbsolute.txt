@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex02MaxMinor\bin\Debug\Ex02MaxMinor.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex02MaxMinor\bin\Debug\Ex02MaxMinor.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex02MaxMinor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex02MaxMinor\obj\x86\Debug\Ex02MaxMinor.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex02MaxMinor\obj\x86\Debug\Ex02MaxMinor.pdb

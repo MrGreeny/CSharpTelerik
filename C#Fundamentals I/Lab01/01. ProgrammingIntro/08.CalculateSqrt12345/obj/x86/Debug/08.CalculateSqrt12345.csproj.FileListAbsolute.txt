@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\08.CalculateSqrt12345\bin\Debug\08.CalculateSqrt12345.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\08.CalculateSqrt12345\bin\Debug\08.CalculateSqrt12345.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\08.CalculateSqrt12345\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\08.CalculateSqrt12345\obj\x86\Debug\08.CalculateSqrt12345.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\08.CalculateSqrt12345\obj\x86\Debug\08.CalculateSqrt12345.pdb

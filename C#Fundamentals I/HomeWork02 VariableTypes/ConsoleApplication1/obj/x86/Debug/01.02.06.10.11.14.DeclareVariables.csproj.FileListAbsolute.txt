@@ -1,0 +1,2 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

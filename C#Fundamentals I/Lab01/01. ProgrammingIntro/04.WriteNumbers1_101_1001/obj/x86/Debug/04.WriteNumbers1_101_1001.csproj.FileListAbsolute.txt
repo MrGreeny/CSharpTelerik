@@ -1,0 +1,7 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\WriteNumbers1_101_1001\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\WriteNumbers1_101_1001\bin\Debug\WriteNumbers1_101_1001.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\WriteNumbers1_101_1001\bin\Debug\WriteNumbers1_101_1001.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\WriteNumbers1_101_1001\obj\x86\Debug\WriteNumbers1_101_1001.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\WriteNumbers1_101_1001\obj\x86\Debug\WriteNumbers1_101_1001.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\04.WriteNumbers1_101_1001\obj\x86\Debug\WriteNumbers1_101_1001.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\04.WriteNumbers1_101_1001\obj\x86\Debug\WriteNumbers1_101_1001.pdb

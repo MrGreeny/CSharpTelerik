@@ -1,0 +1,11 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\bin\Debug\TestApplication.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\bin\Debug\TestApplication.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\bin\Debug\Point3D.dll
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\bin\Debug\Point3D.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\obj\x86\Debug\TestApplication.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\obj\x86\Debug\TestApplication.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\bin\Debug\GenericMatrix.dll
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\bin\Debug\Versions.dll
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\bin\Debug\GenericMatrix.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\TestApplication\bin\Debug\Versions.pdb

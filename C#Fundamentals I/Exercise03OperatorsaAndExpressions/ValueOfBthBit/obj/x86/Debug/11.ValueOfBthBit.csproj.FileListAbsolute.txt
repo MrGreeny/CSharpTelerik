@@ -1,0 +1,7 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\ValueOfBthBit\bin\Debug\ValueOfBthBit.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\ValueOfBthBit\bin\Debug\ValueOfBthBit.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\ValueOfBthBit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\ValueOfBthBit\obj\x86\Debug\ValueOfBthBit.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\ValueOfBthBit\obj\x86\Debug\ValueOfBthBit.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\ValueOfBthBit\obj\x86\Debug\ValueOfBthBit.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\ValueOfBthBit\obj\x86\Debug\ValueOfBthBit.pdb

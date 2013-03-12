@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\tests\bin\Debug\tests.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\tests\bin\Debug\tests.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\tests\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\tests\obj\x86\Debug\tests.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\tests\obj\x86\Debug\tests.pdb

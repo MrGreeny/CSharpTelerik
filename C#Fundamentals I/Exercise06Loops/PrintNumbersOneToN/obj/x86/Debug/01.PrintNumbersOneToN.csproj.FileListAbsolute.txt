@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintNumbersOneToN\bin\Debug\PrintNumbersOneToN.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintNumbersOneToN\bin\Debug\PrintNumbersOneToN.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintNumbersOneToN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintNumbersOneToN\obj\x86\Debug\PrintNumbersOneToN.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintNumbersOneToN\obj\x86\Debug\PrintNumbersOneToN.pdb

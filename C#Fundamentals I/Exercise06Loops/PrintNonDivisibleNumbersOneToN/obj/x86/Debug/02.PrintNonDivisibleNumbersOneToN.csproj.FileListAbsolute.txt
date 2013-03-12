@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintNonDivisibleNumbersOneToN\bin\Debug\PrintNonDivisibleNumbersOneToN.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintNonDivisibleNumbersOneToN\bin\Debug\PrintNonDivisibleNumbersOneToN.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintNonDivisibleNumbersOneToN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintNonDivisibleNumbersOneToN\obj\x86\Debug\PrintNonDivisibleNumbersOneToN.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintNonDivisibleNumbersOneToN\obj\x86\Debug\PrintNonDivisibleNumbersOneToN.pdb

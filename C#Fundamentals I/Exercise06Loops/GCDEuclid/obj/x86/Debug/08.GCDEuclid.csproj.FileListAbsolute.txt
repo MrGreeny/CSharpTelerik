@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\GCDEuclid\bin\Debug\GCDEuclid.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\GCDEuclid\bin\Debug\GCDEuclid.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\GCDEuclid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\GCDEuclid\obj\x86\Debug\GCDEuclid.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\GCDEuclid\obj\x86\Debug\GCDEuclid.pdb

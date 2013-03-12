@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\falingRocks\falingRocks\bin\Debug\falingRocks.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\falingRocks\falingRocks\bin\Debug\falingRocks.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\falingRocks\falingRocks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\falingRocks\falingRocks\obj\x86\Debug\falingRocks.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\falingRocks\falingRocks\obj\x86\Debug\falingRocks.pdb

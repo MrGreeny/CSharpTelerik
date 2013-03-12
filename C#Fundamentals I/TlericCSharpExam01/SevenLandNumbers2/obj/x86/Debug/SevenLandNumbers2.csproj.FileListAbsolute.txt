@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\SevenLandNumbers2\bin\Debug\SevenLandNumbers2.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\SevenLandNumbers2\bin\Debug\SevenLandNumbers2.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\SevenLandNumbers2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\SevenLandNumbers2\obj\x86\Debug\SevenLandNumbers2.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\TlericCSharpExam01\SevenLandNumbers2\obj\x86\Debug\SevenLandNumbers2.pdb

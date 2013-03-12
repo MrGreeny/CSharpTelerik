@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\SolveEquation\bin\Debug\SolveEquation.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\SolveEquation\bin\Debug\SolveEquation.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\SolveEquation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\SolveEquation\obj\x86\Debug\SolveEquation.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\SolveEquation\obj\x86\Debug\SolveEquation.pdb

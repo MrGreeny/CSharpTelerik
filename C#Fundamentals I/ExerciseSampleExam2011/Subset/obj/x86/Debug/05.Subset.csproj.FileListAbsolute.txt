@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\Subset\bin\Debug\Subset.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\Subset\bin\Debug\Subset.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\Subset\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\Subset\obj\x86\Debug\Subset.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\Subset\obj\x86\Debug\Subset.pdb

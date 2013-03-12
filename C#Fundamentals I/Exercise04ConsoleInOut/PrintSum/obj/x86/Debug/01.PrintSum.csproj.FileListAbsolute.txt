@@ -1,0 +1,7 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\PrintSum\bin\Debug\PrintSum.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\PrintSum\bin\Debug\PrintSum.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\PrintSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\PrintSum\obj\x86\Debug\PrintSum.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\PrintSum\obj\x86\Debug\PrintSum.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\PrintSum\obj\x86\Debug\PrintSum.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\PrintSum\obj\x86\Debug\PrintSum.pdb

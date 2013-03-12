@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsThirdDigitSeven\bin\Debug\IsThirdDigitSeven.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsThirdDigitSeven\bin\Debug\IsThirdDigitSeven.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsThirdDigitSeven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsThirdDigitSeven\obj\x86\Debug\IsThirdDigitSeven.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsThirdDigitSeven\obj\x86\Debug\IsThirdDigitSeven.pdb

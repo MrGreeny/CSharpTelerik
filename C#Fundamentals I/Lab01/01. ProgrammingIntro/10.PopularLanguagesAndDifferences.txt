@@ -1,0 +1,12 @@
+The most popular contemporary programming languages according to a Normalized Comparison from a site called langpop.com are C, Java, C++, PHP, JavScript  etc.
+
+C is like a predecessor of a lot of the modern programming languages. C is imperative and is very useful for programming on a low system level. C is much older than C# and lacks a lot of the features of C#. Most importantly it's not object oriented, and the memory management has to be done manually.
+
+C++ is an upgrade to C and one of it's new features is that it's object oriented. Like C, C++ is an older iteration of C#. One difference is, that C# has garbage collection unlike C++.
+
+PHP is generally used for web development and server-side scripting. Php has objects too.
+Unlike PHP, C# is mostly used for corporate and enterprise applications.
+
+
+JavaScript is, as the name suggests, a scripting language. It's mostly used for web coding.
+One difference between the two languages is the type system. JS is a dynamically typed language, and C# is static typed.

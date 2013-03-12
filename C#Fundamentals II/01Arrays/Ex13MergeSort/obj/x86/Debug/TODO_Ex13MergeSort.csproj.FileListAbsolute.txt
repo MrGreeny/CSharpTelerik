@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex13MergeSort\bin\Debug\Ex13MergeSort.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex13MergeSort\bin\Debug\Ex13MergeSort.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex13MergeSort\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex13MergeSort\obj\x86\Debug\Ex13MergeSort.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex13MergeSort\obj\x86\Debug\Ex13MergeSort.pdb

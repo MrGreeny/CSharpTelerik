@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\SwapBits\bin\Debug\SwapBits.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\SwapBits\bin\Debug\SwapBits.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\SwapBits\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\SwapBits\obj\x86\Debug\SwapBits.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\SwapBits\obj\x86\Debug\SwapBits.pdb

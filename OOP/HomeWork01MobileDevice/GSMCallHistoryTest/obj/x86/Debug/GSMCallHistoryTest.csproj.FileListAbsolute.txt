@@ -1,0 +1,7 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\GSMCallHistoryTest\bin\Debug\GSMCallHistoryTest.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\GSMCallHistoryTest\bin\Debug\GSMCallHistoryTest.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\GSMCallHistoryTest\bin\Debug\MobileDevice.Library.dll
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\GSMCallHistoryTest\bin\Debug\MobileDevice.Library.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\GSMCallHistoryTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\GSMCallHistoryTest\obj\x86\Debug\GSMCallHistoryTest.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\GSMCallHistoryTest\obj\x86\Debug\GSMCallHistoryTest.pdb

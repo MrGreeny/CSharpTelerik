@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\ConsoleInOut\bin\Debug\ConsoleInOut.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\ConsoleInOut\bin\Debug\ConsoleInOut.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\ConsoleInOut\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\ConsoleInOut\obj\x86\Debug\ConsoleInOut.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\ConsoleInOut\obj\x86\Debug\ConsoleInOut.pdb

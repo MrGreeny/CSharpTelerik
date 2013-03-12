@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\FallingRocksTests\bin\Debug\FallingRocksTests.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\FallingRocksTests\bin\Debug\FallingRocksTests.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\FallingRocksTests\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\FallingRocksTests\obj\x86\Debug\FallingRocksTests.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\FallingRocksTests\obj\x86\Debug\FallingRocksTests.pdb

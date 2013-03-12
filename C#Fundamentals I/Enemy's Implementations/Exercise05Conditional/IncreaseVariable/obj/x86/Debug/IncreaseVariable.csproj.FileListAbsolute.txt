@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\IncreaseVariable\bin\Debug\IncreaseVariable.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\IncreaseVariable\bin\Debug\IncreaseVariable.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\IncreaseVariable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\IncreaseVariable\obj\x86\Debug\IncreaseVariable.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\IncreaseVariable\obj\x86\Debug\IncreaseVariable.pdb

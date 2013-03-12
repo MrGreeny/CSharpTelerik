@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex10FindPreDefinedSequence\bin\Debug\Ex10FindPreDefinedSequence.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex10FindPreDefinedSequence\bin\Debug\Ex10FindPreDefinedSequence.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex10FindPreDefinedSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex10FindPreDefinedSequence\obj\x86\Debug\Ex10FindPreDefinedSequence.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex10FindPreDefinedSequence\obj\x86\Debug\Ex10FindPreDefinedSequence.pdb

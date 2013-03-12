@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\ForrestRoad\bin\Debug\ForrestRoad.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\ForrestRoad\bin\Debug\ForrestRoad.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\ForrestRoad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\ForrestRoad\obj\x86\Debug\ForrestRoad.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\ForrestRoad\obj\x86\Debug\ForrestRoad.pdb

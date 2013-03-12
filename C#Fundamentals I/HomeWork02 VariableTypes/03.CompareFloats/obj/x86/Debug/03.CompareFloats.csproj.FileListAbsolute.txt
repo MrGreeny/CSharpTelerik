@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\03.CompareFloats\bin\Debug\03.CompareFloats.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\03.CompareFloats\bin\Debug\03.CompareFloats.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\03.CompareFloats\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\03.CompareFloats\obj\x86\Debug\03.CompareFloats.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\03.CompareFloats\obj\x86\Debug\03.CompareFloats.pdb

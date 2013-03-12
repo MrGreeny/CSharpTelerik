@@ -1,0 +1,7 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\MobileDevice.TestApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\MobileDevice.TestApplication\bin\Debug\MobileDevice.TestApplication.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\MobileDevice.TestApplication\bin\Debug\MobileDevice.TestApplication.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\MobileDevice.TestApplication\bin\Debug\MobileDevice.Library.dll
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\MobileDevice.TestApplication\bin\Debug\MobileDevice.Library.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\MobileDevice.TestApplication\obj\x86\Debug\MobileDevice.TestApplication.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork01MobileDevice\MobileDevice.TestApplication\obj\x86\Debug\MobileDevice.TestApplication.pdb

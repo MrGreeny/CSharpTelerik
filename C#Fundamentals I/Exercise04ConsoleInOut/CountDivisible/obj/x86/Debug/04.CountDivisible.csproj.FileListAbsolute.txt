@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\CountDivisible\bin\Debug\CountDivisible.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\CountDivisible\bin\Debug\CountDivisible.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\CountDivisible\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\CountDivisible\obj\x86\Debug\CountDivisible.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\CountDivisible\obj\x86\Debug\CountDivisible.pdb

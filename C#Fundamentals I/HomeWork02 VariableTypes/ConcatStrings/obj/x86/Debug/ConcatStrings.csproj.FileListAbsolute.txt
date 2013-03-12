@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\ConcatStrings\bin\Debug\ConcatStrings.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\ConcatStrings\bin\Debug\ConcatStrings.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\ConcatStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\ConcatStrings\obj\x86\Debug\ConcatStrings.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\ConcatStrings\obj\x86\Debug\ConcatStrings.pdb

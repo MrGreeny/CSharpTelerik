@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex12Alphabet\bin\Debug\Ex12Alphabet.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex12Alphabet\bin\Debug\Ex12Alphabet.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex12Alphabet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex12Alphabet\obj\x86\Debug\Ex12Alphabet.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex12Alphabet\obj\x86\Debug\Ex12Alphabet.pdb

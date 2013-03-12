@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\03.CompanyData\bin\Debug\03.CompanyData.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\03.CompanyData\bin\Debug\03.CompanyData.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\03.CompanyData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\03.CompanyData\obj\x86\Debug\03.CompanyData.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\03.CompanyData\obj\x86\Debug\03.CompanyData.pdb

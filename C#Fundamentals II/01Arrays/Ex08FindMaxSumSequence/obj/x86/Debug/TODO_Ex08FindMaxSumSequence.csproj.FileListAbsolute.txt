@@ -1,0 +1,2 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex08FindMaxSumSequence\obj\x86\Debug\Ex08FindMaxSumSequence.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex08FindMaxSumSequence\obj\x86\Debug\Ex08FindMaxSumSequence.pdb

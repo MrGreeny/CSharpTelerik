@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\PrintHelloCSharp\bin\Debug\PrintHelloCSharp.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\PrintHelloCSharp\bin\Debug\PrintHelloCSharp.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\PrintHelloCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\PrintHelloCSharp\obj\x86\Debug\PrintHelloCSharp.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\PrintHelloCSharp\obj\x86\Debug\PrintHelloCSharp.pdb

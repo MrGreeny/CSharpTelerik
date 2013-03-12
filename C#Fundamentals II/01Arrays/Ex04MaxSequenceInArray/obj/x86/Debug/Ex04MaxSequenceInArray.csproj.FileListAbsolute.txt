@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex04MaxSequenceInArray\bin\Debug\Ex04MaxSequenceInArray.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex04MaxSequenceInArray\bin\Debug\Ex04MaxSequenceInArray.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex04MaxSequenceInArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex04MaxSequenceInArray\obj\x86\Debug\Ex04MaxSequenceInArray.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex04MaxSequenceInArray\obj\x86\Debug\Ex04MaxSequenceInArray.pdb

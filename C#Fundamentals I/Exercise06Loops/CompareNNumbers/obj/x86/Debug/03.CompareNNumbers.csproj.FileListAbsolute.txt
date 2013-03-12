@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\CompareNNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\CompareNNumbers\bin\Debug\CompareNNumbers.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\CompareNNumbers\bin\Debug\CompareNNumbers.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\CompareNNumbers\obj\x86\Debug\CompareNNumbers.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\CompareNNumbers\obj\x86\Debug\CompareNNumbers.pdb

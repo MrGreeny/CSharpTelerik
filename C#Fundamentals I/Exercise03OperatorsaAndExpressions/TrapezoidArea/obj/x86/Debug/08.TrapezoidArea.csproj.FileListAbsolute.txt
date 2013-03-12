@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\TrapezoidArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\TrapezoidArea\obj\x86\Debug\TrapezoidArea.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\TrapezoidArea\obj\x86\Debug\TrapezoidArea.pdb

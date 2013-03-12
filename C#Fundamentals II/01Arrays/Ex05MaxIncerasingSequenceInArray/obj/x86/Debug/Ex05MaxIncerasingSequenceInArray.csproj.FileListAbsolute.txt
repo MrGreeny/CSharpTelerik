@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex05MaxIncerasingSequenceInArray\bin\Debug\Ex05MaxIncerasingSequenceInArray.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex05MaxIncerasingSequenceInArray\bin\Debug\Ex05MaxIncerasingSequenceInArray.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex05MaxIncerasingSequenceInArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex05MaxIncerasingSequenceInArray\obj\x86\Debug\Ex05MaxIncerasingSequenceInArray.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex05MaxIncerasingSequenceInArray\obj\x86\Debug\Ex05MaxIncerasingSequenceInArray.pdb

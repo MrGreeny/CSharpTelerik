@@ -1,0 +1,10 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\CalculateSeries\bin\Debug\CalculateSeries.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\CalculateSeries\bin\Debug\CalculateSeries.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\CalculateSeries\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\CalculateSeries\obj\x86\Debug\CalculateSeries.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\CalculateSeries\obj\x86\Debug\CalculateSeries.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\CalculateSeries\obj\x86\Debug\CalculateSeries.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\CalculateSeries\obj\x86\Debug\CalculateSeries.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\CalculateSeries\bin\Debug\CalculateSeries.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\CalculateSeries\bin\Debug\CalculateSeries.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\CalculateSeries\obj\x86\Debug\ResolveAssemblyReference.cache

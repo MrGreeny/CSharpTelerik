@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsBitOne\bin\Debug\IsBitOne.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsBitOne\bin\Debug\IsBitOne.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsBitOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsBitOne\obj\x86\Debug\IsBitOne.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsBitOne\obj\x86\Debug\IsBitOne.pdb

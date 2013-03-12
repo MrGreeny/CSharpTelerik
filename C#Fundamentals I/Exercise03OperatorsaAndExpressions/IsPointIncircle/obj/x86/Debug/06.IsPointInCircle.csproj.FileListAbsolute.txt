@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsPointIncircle\bin\Debug\IsPointIncircle.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsPointIncircle\bin\Debug\IsPointIncircle.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsPointIncircle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsPointIncircle\obj\x86\Debug\IsPointIncircle.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IsPointIncircle\obj\x86\Debug\IsPointIncircle.pdb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab02\Exercise02TypesOfVariables\Ex01DeclareVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab02\Exercise02TypesOfVariables\Ex01DeclareVariables\bin\Debug\Ex01DeclareVariables.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab02\Exercise02TypesOfVariables\Ex01DeclareVariables\bin\Debug\Ex01DeclareVariables.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab02\Exercise02TypesOfVariables\Ex01DeclareVariables\obj\x86\Debug\Ex01DeclareVariables.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab02\Exercise02TypesOfVariables\Ex01DeclareVariables\obj\x86\Debug\Ex01DeclareVariables.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise02TypesOfVariables\Ex01DeclareVariables\obj\x86\Debug\Ex01DeclareVariables.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise02TypesOfVariables\Ex01DeclareVariables\obj\x86\Debug\Ex01DeclareVariables.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise02TypesOfVariables\Ex01DeclareVariables\bin\Debug\Ex01DeclareVariables.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise02TypesOfVariables\Ex01DeclareVariables\bin\Debug\Ex01DeclareVariables.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise02TypesOfVariables\Ex01DeclareVariables\obj\x86\Debug\ResolveAssemblyReference.cache

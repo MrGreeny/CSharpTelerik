@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex05SortStringArray\bin\Debug\Ex05SortStringArray.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex05SortStringArray\bin\Debug\Ex05SortStringArray.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex05SortStringArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex05SortStringArray\obj\x86\Debug\Ex05SortStringArray.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex05SortStringArray\obj\x86\Debug\Ex05SortStringArray.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\ExchangeIfBigger\bin\Debug\ExchangeIfBigger.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\ExchangeIfBigger\bin\Debug\ExchangeIfBigger.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\ExchangeIfBigger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\ExchangeIfBigger\obj\x86\Debug\ExchangeIfBigger.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\ExchangeIfBigger\obj\x86\Debug\ExchangeIfBigger.pdb

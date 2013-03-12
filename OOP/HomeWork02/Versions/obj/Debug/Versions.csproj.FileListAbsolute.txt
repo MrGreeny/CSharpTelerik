@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\Versions\bin\Debug\Versions.dll
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\Versions\bin\Debug\Versions.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\Versions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\Versions\obj\Debug\Versions.dll
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\OOP\HomeWork02\Versions\obj\Debug\Versions.pdb

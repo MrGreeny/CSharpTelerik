@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\MissCat2011\bin\Debug\MissCat2011.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\MissCat2011\bin\Debug\MissCat2011.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\MissCat2011\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\MissCat2011\obj\x86\Debug\MissCat2011.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\ExerciseSampleExam2011\MissCat2011\obj\x86\Debug\MissCat2011.pdb

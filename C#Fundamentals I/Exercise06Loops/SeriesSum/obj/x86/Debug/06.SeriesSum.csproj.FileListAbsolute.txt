@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\SeriesSum\bin\Debug\SeriesSum.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\SeriesSum\bin\Debug\SeriesSum.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\SeriesSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\SeriesSum\obj\x86\Debug\SeriesSum.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\SeriesSum\obj\x86\Debug\SeriesSum.pdb

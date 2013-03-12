@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\08.PrintNNumbers\bin\Debug\08.PrintNNumbers.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\08.PrintNNumbers\bin\Debug\08.PrintNNumbers.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\08.PrintNNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\08.PrintNNumbers\obj\x86\Debug\08.PrintNNumbers.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\08.PrintNNumbers\obj\x86\Debug\08.PrintNNumbers.pdb

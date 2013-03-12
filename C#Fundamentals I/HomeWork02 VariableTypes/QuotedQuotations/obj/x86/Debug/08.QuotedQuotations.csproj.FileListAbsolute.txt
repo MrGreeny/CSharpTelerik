@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\QuotedQuotations\bin\Debug\QuotedQuotations.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\QuotedQuotations\bin\Debug\QuotedQuotations.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\QuotedQuotations\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\QuotedQuotations\obj\x86\Debug\QuotedQuotations.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\HomeWork02 VariableTypes\QuotedQuotations\obj\x86\Debug\QuotedQuotations.pdb

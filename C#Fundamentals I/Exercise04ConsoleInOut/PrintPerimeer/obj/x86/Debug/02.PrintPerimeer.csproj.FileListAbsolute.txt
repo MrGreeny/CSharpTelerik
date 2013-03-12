@@ -1,0 +1,7 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\PrintPerimeer\bin\Debug\PrintPerimeer.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\PrintPerimeer\bin\Debug\PrintPerimeer.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\PrintPerimeer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\PrintPerimeer\obj\x86\Debug\PrintPerimeer.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\PrintPerimeer\obj\x86\Debug\PrintPerimeer.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\PrintPerimeer\obj\x86\Debug\PrintPerimeer.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\PrintPerimeer\obj\x86\Debug\PrintPerimeer.pdb

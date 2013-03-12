@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\NumberName\bin\Debug\NumberName.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\NumberName\bin\Debug\NumberName.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\NumberName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\NumberName\obj\x86\Debug\NumberName.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\NumberName\obj\x86\Debug\NumberName.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\07.AddNNumbes\bin\Debug\07.AddNNumbes.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\07.AddNNumbes\bin\Debug\07.AddNNumbes.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\07.AddNNumbes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\07.AddNNumbes\obj\x86\Debug\07.AddNNumbes.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\07.AddNNumbes\obj\x86\Debug\07.AddNNumbes.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\07.AddNNumbes\obj\x86\Debug\07.AddNNumbes.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\07.AddNNumbes\obj\x86\Debug\07.AddNNumbes.pdb

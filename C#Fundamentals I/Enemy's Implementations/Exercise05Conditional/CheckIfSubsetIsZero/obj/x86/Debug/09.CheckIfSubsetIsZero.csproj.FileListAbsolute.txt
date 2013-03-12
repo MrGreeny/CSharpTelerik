@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\CheckIfSubsetIsZero\bin\Debug\CheckIfSubsetIsZero.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\CheckIfSubsetIsZero\bin\Debug\CheckIfSubsetIsZero.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\CheckIfSubsetIsZero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\CheckIfSubsetIsZero\obj\x86\Debug\CheckIfSubsetIsZero.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Enemy's Implementations\Exercise05Conditional\CheckIfSubsetIsZero\obj\x86\Debug\CheckIfSubsetIsZero.pdb

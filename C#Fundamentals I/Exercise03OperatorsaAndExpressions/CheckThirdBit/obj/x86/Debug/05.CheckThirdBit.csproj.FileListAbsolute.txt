@@ -1,0 +1,7 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\CheckThirdBit\bin\Debug\CheckThirdBit.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\CheckThirdBit\bin\Debug\CheckThirdBit.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\CheckThirdBit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\CheckThirdBit\obj\x86\Debug\CheckThirdBit.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\CheckThirdBit\obj\x86\Debug\CheckThirdBit.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\CheckThirdBit\obj\x86\Debug\CheckThirdBit.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\CheckThirdBit\obj\x86\Debug\CheckThirdBit.pdb

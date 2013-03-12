@@ -1,0 +1,1 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\01Arrays\Ex14QuickSort\obj\x86\Debug\ResolveAssemblyReference.cache

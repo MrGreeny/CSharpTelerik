@@ -1,0 +1,10 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\14.ExchangeBits\bin\Debug\14.ExchangeBits.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\14.ExchangeBits\bin\Debug\14.ExchangeBits.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\14.ExchangeBits\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\14.ExchangeBits\obj\x86\Debug\14.ExchangeBits.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\14.ExchangeBits\obj\x86\Debug\14.ExchangeBits.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\14.ExchangeBits\obj\x86\Debug\14.ExchangeBits.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\14.ExchangeBits\obj\x86\Debug\14.ExchangeBits.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\14.ExchangeBits\bin\Debug\14.ExchangeBits.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\14.ExchangeBits\bin\Debug\14.ExchangeBits.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\14.ExchangeBits\obj\x86\Debug\ResolveAssemblyReference.cache

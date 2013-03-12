@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\07.PrintCurrentDateAndTime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\07.PrintCurrentDateAndTime\bin\Debug\07.PrintCurrentDateAndTime.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\07.PrintCurrentDateAndTime\obj\x86\Debug\07.PrintCurrentDateAndTime.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Lab01\01. ProgrammingIntro\07.PrintCurrentDateAndTime\obj\x86\Debug\07.PrintCurrentDateAndTime.pdb

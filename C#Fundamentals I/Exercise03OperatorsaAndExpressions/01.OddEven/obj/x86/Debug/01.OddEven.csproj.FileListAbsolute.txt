@@ -1,0 +1,10 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\01.OddEven\bin\Debug\01.OddEven.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\01.OddEven\bin\Debug\01.OddEven.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\01.OddEven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\01.OddEven\obj\x86\Debug\01.OddEven.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\01.OddEven\obj\x86\Debug\01.OddEven.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\01.OddEven\obj\x86\Debug\01.OddEven.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\01.OddEven\obj\x86\Debug\01.OddEven.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\01.OddEven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\01.OddEven\bin\Debug\01.OddEven.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise03OperatorsaAndExpressions\01.OddEven\bin\Debug\01.OddEven.pdb

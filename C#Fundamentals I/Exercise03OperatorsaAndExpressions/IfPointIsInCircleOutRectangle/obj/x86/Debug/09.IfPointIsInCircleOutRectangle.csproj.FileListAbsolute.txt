@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IfPointIsInCircleOutRectangle\bin\Debug\IfPointIsInCircleOutRectangle.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IfPointIsInCircleOutRectangle\bin\Debug\IfPointIsInCircleOutRectangle.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IfPointIsInCircleOutRectangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IfPointIsInCircleOutRectangle\obj\x86\Debug\IfPointIsInCircleOutRectangle.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\IfPointIsInCircleOutRectangle\obj\x86\Debug\IfPointIsInCircleOutRectangle.pdb

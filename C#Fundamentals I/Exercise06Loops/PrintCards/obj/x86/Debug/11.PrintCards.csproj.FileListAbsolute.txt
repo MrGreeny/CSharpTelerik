@@ -1,0 +1,2 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintCards\obj\x86\Debug\PrintCards.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\PrintCards\obj\x86\Debug\PrintCards.pdb

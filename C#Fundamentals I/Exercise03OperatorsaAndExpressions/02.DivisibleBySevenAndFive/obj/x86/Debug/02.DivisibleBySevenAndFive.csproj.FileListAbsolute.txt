@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\02.DivisibleBySevenAndFive\bin\Debug\02.DivisibleBySevenAndFive.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\02.DivisibleBySevenAndFive\bin\Debug\02.DivisibleBySevenAndFive.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\02.DivisibleBySevenAndFive\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\02.DivisibleBySevenAndFive\obj\x86\Debug\02.DivisibleBySevenAndFive.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab03\Exercise03OperatorsaAndExpressions\02.DivisibleBySevenAndFive\obj\x86\Debug\02.DivisibleBySevenAndFive.pdb

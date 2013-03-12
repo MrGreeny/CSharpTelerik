@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex04BinSearch\bin\Debug\Ex04BinSearch.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex04BinSearch\bin\Debug\Ex04BinSearch.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex04BinSearch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex04BinSearch\obj\x86\Debug\Ex04BinSearch.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\C#Fundamentals II\02MultidimentionalArrrays\Ex04BinSearch\obj\x86\Debug\Ex04BinSearch.pdb

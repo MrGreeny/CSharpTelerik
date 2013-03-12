@@ -1,0 +1,5 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\FactorialFunctoonNAndK\bin\Debug\FactorialFunctoonNAndK.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\FactorialFunctoonNAndK\bin\Debug\FactorialFunctoonNAndK.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\FactorialFunctoonNAndK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\FactorialFunctoonNAndK\obj\x86\Debug\FactorialFunctoonNAndK.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise06Loops\FactorialFunctoonNAndK\obj\x86\Debug\FactorialFunctoonNAndK.pdb

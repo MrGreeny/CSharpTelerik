@@ -1,0 +1,10 @@
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\11.FallingRocksGame\bin\Debug\11.FallingRocksGame.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\11.FallingRocksGame\bin\Debug\11.FallingRocksGame.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\11.FallingRocksGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\11.FallingRocksGame\obj\x86\Debug\11.FallingRocksGame.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\FMI\Lab04\ConsoleInOut\11.FallingRocksGame\obj\x86\Debug\11.FallingRocksGame.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\11.FallingRocksGame\obj\x86\Debug\11.FallingRocksGame.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\11.FallingRocksGame\obj\x86\Debug\11.FallingRocksGame.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\11.FallingRocksGame\bin\Debug\11.FallingRocksGame.exe
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\11.FallingRocksGame\bin\Debug\11.FallingRocksGame.pdb
+C:\Documents and Settings\NoMisterPerer\Desktop\C#\Telerik\Exercise04ConsoleInOut\11.FallingRocksGame\obj\x86\Debug\ResolveAssemblyReference.cache
